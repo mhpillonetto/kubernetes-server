@@ -1,0 +1,3 @@
+icon: https://i.pinimg.com/originals/49/23/ec/4923ec849aeff7e1a7dc189dfd284ddb.jpg
+deploy:
+  - okteto build -t okteto.dev/server server
